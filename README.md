@@ -1,4 +1,3 @@
-PDF Outline Extractor for Adobe India Hackathon - Round 1A
 
 Overview
 
@@ -95,6 +94,7 @@ bash
 Copy
 Edit
 pip install -r requirements.txt
+
 📑 Notes
 Designed to handle diverse documents with mixed scripts
 

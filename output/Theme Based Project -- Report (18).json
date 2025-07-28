@@ -1,0 +1,336 @@
+{
+  "title": "Theme Based Project -- Report",
+  "children": [
+    {
+      "level": "H3",
+      "text": "Theme Based Project Report",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "FOOD WASTE MANAGEMENT SYSTEM",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "BACHELOR OF ENGINEERING",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "COMPUTER SCIENCE AND ENGINEERING",
+      "page": 1,
+      "children": [
+        {
+          "level": "H3",
+          "text": "External Examiner:",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "text": "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "COURSE OBJECTIVES AND OUTCOMES",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "COURSE CERTIFICATION",
+      "page": 8,
+      "children": [
+        {
+          "level": "H3",
+          "text": "Use Case Diagram",
+          "page": 11
+        },
+        {
+          "level": "H3",
+          "text": "Table Of Contents",
+          "page": 12
+        },
+        {
+          "level": "H3",
+          "text": "Program Specific Outcomes",
+          "page": 12
+        },
+        {
+          "level": "H3",
+          "text": "Course Objectives And Outcomes",
+          "page": 12
+        },
+        {
+          "level": "H3",
+          "text": "1.1 problem Statement",
+          "page": 12
+        },
+        {
+          "level": "H3",
+          "text": "1.2 Existing System",
+          "page": 12
+        },
+        {
+          "level": "H3",
+          "text": "1.3 Proposed System",
+          "page": 12
+        },
+        {
+          "level": "H3",
+          "text": "1.4 Scope",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "text": "2. System Architecture specification",
+      "page": 12,
+      "children": [
+        {
+          "level": "H3",
+          "text": "2.1 Software Requirements",
+          "page": 12,
+          "children": [
+            {
+              "level": "H4",
+              "text": "2.1.1 Functional Requirements",
+              "page": 12
+            }
+          ]
+        },
+        {
+          "level": "H3",
+          "text": "2.2 Hardware Requirements",
+          "page": 12
+        },
+        {
+          "level": "H3",
+          "text": "2.3 System Architecture\/Block Diagram",
+          "page": 13
+        },
+        {
+          "level": "H3",
+          "text": "3.1 Methodology",
+          "page": 13,
+          "children": [
+            {
+              "level": "H4",
+              "text": "3.1.1 Algorithms Description",
+              "page": 13
+            }
+          ]
+        },
+        {
+          "level": "H3",
+          "text": "3.2 Structural Diagram",
+          "page": 13
+        },
+        {
+          "level": "H3",
+          "text": "3.3 Behavioral Diagram",
+          "page": 13
+        },
+        {
+          "level": "H3",
+          "text": "3.4 Sequence Diagram",
+          "page": 13
+        },
+        {
+          "level": "H3",
+          "text": "4.1 Environmental Setup",
+          "page": 13
+        },
+        {
+          "level": "H3",
+          "text": "4.2 Implementation Details",
+          "page": 13
+        },
+        {
+          "level": "H3",
+          "text": "4.3 Results",
+          "page": 13
+        },
+        {
+          "level": "H3",
+          "text": "1.1 Problem statement",
+          "page": 14
+        },
+        {
+          "level": "H3",
+          "text": "1.2 Existing systems",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "text": "2. SYSTEM ARCHITECTURE SPECIFICATION",
+      "page": 16,
+      "children": [
+        {
+          "level": "H4",
+          "text": "2.1.1 Functional Requirements:",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "text": "1. User Management",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "2. Donation and Volunteer Management",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "3. Reporting and Feedback",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "4. Social Integration and Platform Awareness",
+      "page": 17,
+      "children": [
+        {
+          "level": "H3",
+          "text": "2.3 SYSTEM ARCHITECTURE",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "text": "3. System Design",
+      "page": 19,
+      "children": [
+        {
+          "level": "H3",
+          "text": "The Food Waste Management System will be developed in clear, sequential phases:",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "text": "1. Frontend Development:",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "2. Backend Development:",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "3. Integration and Testing:",
+      "page": 20,
+      "children": [
+        {
+          "level": "H3",
+          "text": "3.2 Structural Diagrams",
+          "page": 21
+        },
+        {
+          "level": "H3",
+          "text": "3.3 Behavioral Diagrams",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "text": "4. Implementation",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "1. Download Visual Studio Code by visiting the link below based on your operating system:",
+      "page": 24,
+      "children": [
+        {
+          "level": "H3",
+          "text": "Creating the Project Folder in XAMPP:",
+          "page": 24
+        },
+        {
+          "level": "H3",
+          "text": "Setting Up the Database in phpMyAdmin:",
+          "page": 24
+        },
+        {
+          "level": "H3",
+          "text": "Testing the Environment:",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "text": "The URL http:\/\/localhost\/food_waste_management_system\/ was entered to ensure the",
+      "page": 24,
+      "children": [
+        {
+          "level": "H3",
+          "text": "Initialize Project:",
+          "page": 25
+        },
+        {
+          "level": "H3",
+          "text": "Create Components:",
+          "page": 25
+        },
+        {
+          "level": "H3",
+          "text": "Set Up Routing:",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "text": "Styling:",
+      "page": 25,
+      "children": [
+        {
+          "level": "H3",
+          "text": "Define Routes:",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "text": "Create PHP scripts to handle requests for user authentication, donation logging, and task",
+      "page": 25,
+      "children": [
+        {
+          "level": "H3",
+          "text": "Create Services:",
+          "page": 26
+        },
+        {
+          "level": "H3",
+          "text": "Define Database Models:",
+          "page": 26
+        },
+        {
+          "level": "H3",
+          "text": "Set Up Middleware:",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "text": "CONCLUSION & FUTURE ENHANCEMENTS",
+      "page": 32
+    }
+  ]
+}
